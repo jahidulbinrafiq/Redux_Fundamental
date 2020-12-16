@@ -1,5 +1,7 @@
 # Redux_Fundamental
 
-<h2>Store</h2>
-<h2>Subscription</h2>
-<h3>Reducer</h3>
+<p>Store</p>
+<p>Subscription</p>
+<p>Reducer</p>
+<p>Action</p>
+<p>Dispatch</p>
